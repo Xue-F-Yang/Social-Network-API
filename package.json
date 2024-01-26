@@ -1,0 +1,15 @@
+{
+  "name": "social-media-api",
+  "version": "1.0.0",
+  "description": "A social media API using a NoSQL database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "bcrypt": "^5.0.1"
+  }
+}
